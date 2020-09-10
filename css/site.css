@@ -1,4 +1,47 @@
 body {
-    background-color: darkblue;
-    color: white;
+    background-color:lightcoral;
+    background-size: auto;
+    color: rgb(15, 13, 13);
+   
 }
+
+title {
+    color: blueviolet
+}
+
+h2 {
+    text-align: center;
+    
+}
+
+li {
+    text-align: center;
+    font-size: 4ex;
+    color: black;
+    
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button {
+    color: blueviolet;
+}
+nav {
+    background-color: rgb(216, 61, 23);
+    overflow: hidden;
+  
+  }
+  ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  li {
+    margin: 3vw;
+    font-size: 4vh;
+    list-style-type: none;
+  }
